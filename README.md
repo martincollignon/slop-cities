@@ -40,6 +40,7 @@ Entries marked *(source only)* have no live demo yet; clone and serve locally.
 ### Europe
 
 - **Berlin** - [Play](https://www.aaronjcunningham.com/play/berlin) · [Tweet](https://x.com/Aaron_1337/status/2113969912158847343) - by [@Aaron_1337](https://x.com/Aaron_1337).
+- **Copenhagen, Denmark** - [Play](https://martincollignon.github.io/copenhagen-twin/) · [Source](https://github.com/martincollignon/copenhagen-twin) - by [martincollignon](https://github.com/martincollignon). A city twin with real building data and Skråfoto facade textures.
 - **Donostia / San Sebastián** - [Play](https://ginocingolani.github.io/slop-donostia/) · [Source](https://github.com/ginocingolani/slop-donostia) - by [ginocingolani](https://github.com/ginocingolani).
 - **Kazan** - [Play](https://kazan.adelnz.com/) · [Source](https://github.com/meoyawn/slop-kazan) - by [meoyawn](https://github.com/meoyawn). Kazan and surroundings, Tatarstan.
 - **London** - [Play](https://nelsonchris1.github.io/london-loop/) · [Source](https://github.com/nelsonchris1/london-loop) · [Tweet](https://x.com/Nelson_christof/status/2113986000112296170) - by [@Nelson_christof](https://x.com/Nelson_christof). London Loop: a GTA-style 1:1 Zone 1.
